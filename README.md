@@ -20,11 +20,12 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
-
+- Setup a VM Domain Controller (Windows Server2022) as well a Client VM (Windows 10) 
+- Remote Desktop into Domain Controller from Client 1 with (perpetual Ping)
+- Install Active Directory Domain Services onto DC
+- Setup a New Forest
+- Create Organizational Units in (ADUC)
+- Run Script in Powershell_ise to populate user accounts
 <h2>Deployment and Configuration Steps</h2>
 
 <p>
