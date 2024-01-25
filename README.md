@@ -218,7 +218,7 @@ Click Next
 <br>
 <br>
 
-![Review Options 21](https://github.com/Terry-Jackson/Active-Directory/assets/155121596/66990d68-dcb1-44bb-80e6-69f023398372
+![Review Options 21](https://github.com/Terry-Jackson/Active-Directory/assets/155121596/eefcad4c-05b6-40e4-82e3-07593b201ad1)
 
 Review Options and click next.
 <br>
