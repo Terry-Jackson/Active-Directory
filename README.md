@@ -78,3 +78,34 @@ Logged into Client-1 and ping DC-1’s private IP address with ping -t <ip addre
 <br>
 <br>
 
+![Click on Inbound Rules 1](https://github.com/Terry-Jackson/Active-Directory/assets/155121596/3e3e5670-e1de-4d94-b127-924c6f067599)
+
+Find the Windows firewall settings and click on Inbound Rules. 
+<br>
+<br>
+<br>
+
+![Enable this Rule Private 2](https://github.com/Terry-Jackson/Active-Directory/assets/155121596/cab41777-ae9c-4ccb-8305-75e33f0c3e9d)
+
+Enable this Rule. 
+<br>
+<br>
+<br>
+
+![Enable this Rule Domain 3](https://github.com/Terry-Jackson/Active-Directory/assets/155121596/9cf3bbca-e6ce-42e3-a70c-eb0dd46c83c4)
+
+Enable this Rule as well for the ICMPv4 Protocol.
+<br>
+<br>
+<br>
+
+![No longer timing out](https://github.com/Terry-Jackson/Active-Directory/assets/155121596/9c88415d-4cfc-465d-9e8c-fc6449cf6017)
+
+Once I enable ICMPv4 On DC-1 the Request Timed out Changed.
+<br>
+<br>
+<br>
+
+
+
+
