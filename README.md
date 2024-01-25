@@ -218,6 +218,56 @@ Click Next
 <br>
 <br>
 
+![Review Options 21](https://github.com/Terry-Jackson/Active-Directory/assets/155121596/66990d68-dcb1-44bb-80e6-69f023398372
+
+Review Options and click next.
+<br>
+<br>
+<br>
+
+![Prerequisites Check  22](https://github.com/Terry-Jackson/Active-Directory/assets/155121596/c36e0654-729b-4092-a291-a94dd7f82511)
+
+Prerequisites Check, click Install
+<br>
+<br>
+<br>
+
+![Click on Tools then go to Users and computers 23](https://github.com/Terry-Jackson/Active-Directory/assets/155121596/3ae4faa8-6256-46fc-bc25-bc650ab90dff)
+
+Click on Tools in the upper right corner. Then proceed to Users and Computers.
+<br>
+<br>
+<br>
+
+![Right Click on mydomain com then go to new  From there you will find Organizational Unit  Click on that and Create an Admin dept  and an Employee Dept  24](https://github.com/Terry-Jackson/Active-Directory/assets/155121596/e01b9b6d-e9a5-4604-82d5-c1346321f55f)
+
+Right Click on mydomain.com then go to new. From there you will find Organizational Unit. Click on that and Create an Admin dept. and an Employee Dept.
+<br>
+<br>
+<br>
+
+![Create a file folder under mydomain com named Admins 25](https://github.com/Terry-Jackson/Active-Directory/assets/155121596/3786be7b-89e1-4dc5-a486-9f1be8467ae8)
+
+Under (ADUC), create an organizational Unit Called Admins.
+<br>
+<br>
+<br>
+
+![Create a file folder under mydomain com named Employees 26](https://github.com/Terry-Jackson/Active-Directory/assets/155121596/ef9b107b-22b8-4b58-afed-bdbcb4db6cbd)
+
+Under (ADUC), create and organizational Unit Called Employees.
+<br>
+<br>
+<br>
+
+
+
+
+
+
+
+
+
 
 
 
