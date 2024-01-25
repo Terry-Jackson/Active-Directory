@@ -127,6 +127,23 @@ Click Next
 <br>
 <br>
 
+![Install On your Domain Controller 7](https://github.com/Terry-Jackson/Active-Directory/assets/155121596/8edc2dff-75db-4853-bb0b-730627fba189)
+
+Click to Install on your Domain Controller.
+<br>
+<br>
+<br>
+
+![Click Active Directory Domain Services and then click next 9](https://github.com/Terry-Jackson/Active-Directory/assets/155121596/e08536e8-38c8-4256-93d2-d33f78f50e85)
+
+Click on (AD DS) make sure its checked on and click next.
+<br>
+<br>
+<br>
+
+
+
+
 
 
 
