@@ -27,6 +27,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 - Create Organizational Units in (ADUC)
 - Run Script in Powershell_ise to populate user accounts
 <h2>Deployment and Configuration Steps</h2>
+![image](https://github.com/Terry-Jackson/Active-Directory/assets/155121596/f85525c7-8e6b-4939-88a2-4c27a41b18ac)
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
