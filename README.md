@@ -179,6 +179,51 @@ Waiting for Installation.
 ![Click on the Flag at and Promote Server to a Domain Controller 15](https://github.com/Terry-Jackson/Active-Directory/assets/155121596/699e60ad-1a53-486a-87eb-db28a1fd7390)
 
 Click on the flag in the top right corner. Promote this server to a Domain Controller.
+<br>
+<br>
+<br>
+
+![Add a New Forest and Root Domain name then click next 16](https://github.com/Terry-Jackson/Active-Directory/assets/155121596/144960ff-4748-495f-ad7f-302a4d726715)
+
+ Setup a new forest as mydomain.com (can be anything, just remember what it is)
+ <br>
+ <br>
+ <br>
+
+ ![Add a Password for the Domain and Click Next 17](https://github.com/Terry-Jackson/Active-Directory/assets/155121596/9f68d34e-8a74-41a9-82a2-bf6b3460383b)
+
+ Add a password for the Domain and click next.
+<br>
+<br>
+<br>
+
+![DNS Options- Click Next 18](https://github.com/Terry-Jackson/Active-Directory/assets/155121596/e26ae20e-48c0-474d-93d2-94b174cf9ac9)
+
+Click Next
+<br>
+<br>
+<br>
+
+![The NetBIOS Domain Name 19](https://github.com/Terry-Jackson/Active-Directory/assets/155121596/eff115b8-2270-429c-8d71-7976a29a8b4e)
+
+Type in your domain name and click next.
+<br>
+<br>
+<br>
+
+![Paths 20](https://github.com/Terry-Jackson/Active-Directory/assets/155121596/08ad86e3-8e6d-4ebb-a9d0-8c4059f2197b)
+
+Click Next 
+<br>
+<br>
+<br>
+
+
+
+
+
+
+
 
 
 
