@@ -64,10 +64,13 @@ Add credentials for Client-1 in order to remote into (VM)
 <br>
 <br>
 
+![Click yes in order to Remote Desktop into System](https://github.com/Terry-Jackson/Active-Directory/assets/155121596/c3fa1d68-0ee6-4542-9868-77cd0adf8b14)
 
+Click yes in order to proceed in remoting into system.
+<br>
+<br>
+<br>
 
+![Once I enable ICMPv4 On DC-1 the Request Timed out will Change ](https://github.com/Terry-Jackson/Active-Directory/assets/155121596/32d06f3e-34e5-4b04-a685-a1475e0b5c64)
 
-
-
-
-
+Logged into Client-1 and ping DC-1’s private IP address with ping -t <ip address> (perpetual ping) Once we go into the firewall settings and enable the ICMPv4 protocol the request timeout will change.
