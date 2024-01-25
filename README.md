@@ -106,6 +106,30 @@ Once I enable ICMPv4 On DC-1 the Request Timed out Changed.
 <br>
 <br>
 
+![Installing Active Directory On Domain Controller 4](https://github.com/Terry-Jackson/Active-Directory/assets/155121596/1bd2e2bc-77af-41fd-80cd-5e236abc3e88)
+
+Click on Add Roles and Features. We are getting ready to install (AD DS)
+<br>
+<br>
+<br>
+
+![Start the Installation Wizard 5](https://github.com/Terry-Jackson/Active-Directory/assets/155121596/41d8c4bf-e08d-4f40-afc4-2c82a98fb75c)
+
+Click Next
+<br>
+<br>
+<br>
+
+![Click Next 6](https://github.com/Terry-Jackson/Active-Directory/assets/155121596/90126844-a6ef-41f8-804e-115e3e4e2f55)
+
+Click Next
+<br>
+<br>
+<br>
+
+
+
+
 
 
 
