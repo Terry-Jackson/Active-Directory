@@ -73,4 +73,8 @@ Click yes in order to proceed in remoting into system.
 
 ![Once I enable ICMPv4 On DC-1 the Request Timed out will Change ](https://github.com/Terry-Jackson/Active-Directory/assets/155121596/32d06f3e-34e5-4b04-a685-a1475e0b5c64)
 
-Logged into Client-1 and ping DC-1’s private IP address with ping -t <ip address> (perpetual ping) Once we go into the firewall settings and enable the ICMPv4 protocol the request timeout will change.
+Logged into Client-1 and ping DC-1’s private IP address with ping -t <ip address> (perpetual ping) Once we go into the firewall settings of DC-1 and enable the ICMPv4 protocol the request timeout will change.
+<br>
+<br>
+<br>
+
