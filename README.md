@@ -141,6 +141,49 @@ Click on (AD DS) make sure its checked on and click next.
 <br>
 <br>
 
+![Click Add Features 10](https://github.com/Terry-Jackson/Active-Directory/assets/155121596/a52254fa-69e0-4e6f-8860-e0a7fbae49b2)
+
+Add Features
+<br>
+<br>
+<br>
+
+![Click Next for adding Features 11](https://github.com/Terry-Jackson/Active-Directory/assets/155121596/54844af9-3a3e-49d2-bee3-b7fc10423126)
+
+Select Features and click next.
+<br>
+<br>
+<br>
+
+![Click next for AD DS 12](https://github.com/Terry-Jackson/Active-Directory/assets/155121596/8d3f55a3-ad20-4790-aaf9-8f0e1e27c63e)
+
+Click Next
+<br>
+<br>
+<br>
+
+![Confirm Installation Selections and Click Install 13](https://github.com/Terry-Jackson/Active-Directory/assets/155121596/6adf3b71-116f-44ce-9477-4e5c721b0fba)
+
+Confirm Installation and selections, click Install.
+<br>
+<br>
+<br>
+
+![Wait For Installation 14](https://github.com/Terry-Jackson/Active-Directory/assets/155121596/7374a2a4-f853-4979-be47-5f6493ce6eab)
+
+Waiting for Installation.
+<br>
+<br>
+<br>
+
+![Click on the Flag at and Promote Server to a Domain Controller 15](https://github.com/Terry-Jackson/Active-Directory/assets/155121596/699e60ad-1a53-486a-87eb-db28a1fd7390)
+
+Click on the flag in the top right corner. Promote this server to a Domain Controller.
+
+
+
+
+
 
 
 
