@@ -316,7 +316,16 @@ Rename PC and Change Domain.
 <br>
 <br>
 
+![Domain Changes 35](https://github.com/Terry-Jackson/Active-Directory/assets/155121596/fcce63e7-71c0-4121-9cba-2a38ff238381)
 
+Change the name to mydomain.com
+<br>
+<br>
+<br>
+
+![Computer name and Changes 36](https://github.com/Terry-Jackson/Active-Directory/assets/155121596/939b9b5b-705c-4f28-840f-393a83661cd9)
+
+This step is just asking for an account with admin rights to make these changes.
 
 
 
