@@ -337,6 +337,50 @@ Click OK and you should be joined to the Domain.
 <br>
 <br>
 
+![Logon to Client One as Admin 38](https://github.com/Terry-Jackson/Active-Directory/assets/155121596/23d462c0-5e13-4e4c-ab52-8cf24ff8f1a6)
+
+Logon to Client-1 as admin.
+<br>
+<br>
+<br>
+
+![Click onto RD settings and select users that can remotely access this PC 39](https://github.com/Terry-Jackson/Active-Directory/assets/155121596/90604619-6b71-4eab-b27a-55061fbe5689)
+
+Click onto RD settings and select users that can remotely access this PC.
+<br>
+<br>
+<br>
+
+![Run Powershell in Administrator 40](https://github.com/Terry-Jackson/Active-Directory/assets/155121596/94f4572a-5fc1-49e1-b367-54b7d4bfc4dd)
+
+Go to Windows Powershell_ISE and run as administrator.
+<br>
+<br>
+<br>
+
+![Copy and paste file into PowerShell ISE 41](https://github.com/Terry-Jackson/Active-Directory/assets/155121596/19901e87-9c07-4d4b-b876-395e18bf24b7)
+
+Once the script file has been pasted into Powershell, click run. The employee list will populate.
+<br>
+<br>
+<br>
+
+![Remote Desktop into Client 1 Using a new employee user account 42](https://github.com/Terry-Jackson/Active-Directory/assets/155121596/5ebeb3f5-fc82-468a-a327-179612ddbd74)
+
+Remote Desktop into Client-1 using a new employee user account from the list created.
+<br>
+<br>
+<br>
+
+![New User Created and logged onto Client one 43](https://github.com/Terry-Jackson/Active-Directory/assets/155121596/b224f484-c7f4-459a-839e-0b892306db27)
+
+New user created and logged onto Client-1.
+
+
+
+
+
+
 
 
 
