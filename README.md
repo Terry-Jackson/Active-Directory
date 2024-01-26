@@ -326,6 +326,19 @@ Change the name to mydomain.com
 ![Computer name and Changes 36](https://github.com/Terry-Jackson/Active-Directory/assets/155121596/939b9b5b-705c-4f28-840f-393a83661cd9)
 
 This step is just asking for an account with admin rights to make these changes.
+<br>
+<br>
+<br>
+
+![Click OK and you should be joined to the Domain 37](https://github.com/Terry-Jackson/Active-Directory/assets/155121596/7316d9aa-33e6-47a2-97a2-c67c37e78967)
+
+Click OK and you should be joined to the Domain.
+<br>
+<br>
+<br>
+
+
+
 
 
 
