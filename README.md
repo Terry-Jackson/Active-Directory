@@ -260,6 +260,40 @@ Under (ADUC), create and organizational Unit Called Employees.
 <br>
 <br>
 
+![Create a new user under the admin account 27](https://github.com/Terry-Jackson/Active-Directory/assets/155121596/6188c4d9-0d94-4f4a-8170-53106fcb6ec7)
+
+Create a new user under the admin account.
+<br>
+<br>
+<br>
+
+![assign a password for the user admin 28](https://github.com/Terry-Jackson/Active-Directory/assets/155121596/2a5a31ad-548a-49db-95c2-d47709882630)
+
+Assign a password for the user.
+<br>
+<br>
+<br>
+
+![New Admin Account Created Click Finish 29](https://github.com/Terry-Jackson/Active-Directory/assets/155121596/7fa0837b-346e-4659-a5d6-74a22e52d83a)
+
+New Admin account was created.
+<br>
+<br>
+<br>
+
+![Add this New Member the Securties Domain Admin Group 30](https://github.com/Terry-Jackson/Active-Directory/assets/155121596/cfecf90d-3fa9-4585-8cb4-10752bb79001)
+
+Add this new member to the Securities Domain Admin Group.
+<br>
+<br>
+<br>
+
+
+
+
+
+
+
 
 
 
