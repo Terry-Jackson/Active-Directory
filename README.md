@@ -283,10 +283,40 @@ New Admin account was created.
 
 ![Add this New Member the Securties Domain Admin Group 30](https://github.com/Terry-Jackson/Active-Directory/assets/155121596/cfecf90d-3fa9-4585-8cb4-10752bb79001)
 
-Add this new member to the Securities Domain Admin Group.
+Add this new member account to the Securities Domain Admin Group.
 <br>
 <br>
 <br>
+
+![Tpye in domain to bring up Groups 31](https://github.com/Terry-Jackson/Active-Directory/assets/155121596/d98de546-9f22-4f46-8018-32ea2071d821)
+
+Type in Domain then click check names to bring up the different groups.Then click Ok.
+<br>
+<br>
+<br>
+
+![Select the domain Admins group 32](https://github.com/Terry-Jackson/Active-Directory/assets/155121596/3220520d-99f3-4a9f-9499-9b745e96e0ee)
+
+Select the Domain Admins group.
+<br>
+<br>
+<br>
+
+![Click Apply then Click OK 33](https://github.com/Terry-Jackson/Active-Directory/assets/155121596/81bc4c28-fc7a-4ca5-b565-2acb8b1efc01)
+
+Click apply then click ok.
+<br>
+<br>
+<br>
+
+![Rename Client 1 and join DC 1 34](https://github.com/Terry-Jackson/Active-Directory/assets/155121596/aa68d325-68f3-4d40-8fd3-5bdbbef88bd1)
+
+Rename PC and Change Domain.
+<br>
+<br>
+<br>
+
+
 
 
 
